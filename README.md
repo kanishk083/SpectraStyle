@@ -1,4 +1,4 @@
-# SpectraStyle - AI Personal Stylist 🎨
+# SpectraStyle - AI Personal Stylist 
 
 Check out the full workflow and case study on [Simform Engineering Blog](https://pypush.simform.com/).
 
@@ -6,7 +6,7 @@ Check out the full workflow and case study on [Simform Engineering Blog](https:/
 
 ![SpectraStyle Analysis](https://via.placeholder.com/800x400?text=SpectraStyle+AI+Analysis)
 
-## 🚀 Key Features
+##  Key Features
 
 *   **12-Season Color Analysis:** Uses the "Flow System" to accurately classify users into 12 distinct seasons (e.g., Deep Autumn, Light Spring).
 *   **Advanced Face Detection:** Powered by **Google MediaPipe** for precise landmark detection and segmentation of skin, hair, and eyes.
@@ -15,7 +15,7 @@ Check out the full workflow and case study on [Simform Engineering Blog](https:/
 *   **AI Shopping Agent:** Integrated **LangChain** agent with **Groq (Llama 3)** and **Tavily Search** to find real clothing items from Indian e-commerce stores (Myntra, Amazon, Ajio) that match your season.
 *   **Face Shape & Style Guide:** Analyzes facial geometry to recommend the best necklines and accessory styles.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 *   **Frontend:** [Streamlit](https://streamlit.io/)
 *   **Computer Vision:** [OpenCV](https://opencv.org/), [MediaPipe](https://developers.google.com/mediapipe)
@@ -23,7 +23,7 @@ Check out the full workflow and case study on [Simform Engineering Blog](https:/
 *   **Data Science:** [Scikit-learn](https://scikit-learn.org/) (K-Means), NumPy, Pandas
 *   **Search:** [Tavily API](https://tavily.com/)
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 Follow these steps to set up the project locally.
 

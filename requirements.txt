@@ -1,0 +1,14 @@
+streamlit
+opencv-python
+mediapipe
+scikit-learn
+numpy
+Pillow
+# LangChain + Agent dependencies
+langchain
+langchain-core
+langchain-groq
+langchain-community
+tavily-python
+pydantic
+python-dotenv

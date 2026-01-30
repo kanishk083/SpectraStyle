@@ -1,0 +1,157 @@
+{
+  "deep_winter": {
+    "name": "Deep Winter",
+    "description": "Dominant: Deep. Secondary: Cool. You are high contrast and dramatic. You flow into Autumn, so you can handle some darker neutral warmth.",
+    "contrast_strategy": "High Contrast. Pair light and dark together (e.g., Black & White).",
+    "power_colors": ["#000000", "#FFFFFF", "#8B0000", "#00008B", "#1C3F39"], 
+    "power_color_names": ["Black", "Pure White", "Ruby Red", "Royal Blue", "Deep Pine Green"],
+    "neutrals": ["#36454F", "#2F4F4F", "#000080"], 
+    "neutral_names": ["Charcoal", "Dark Slate", "Navy"],
+    "avoid": ["#E6E6FA", "#F5DEB3", "#FFA500"],
+    "avoid_names": ["Pale Lavender", "Beige", "Orange"],
+    "metals": ["Silver", "Platinum"]
+  },
+
+  "cool_winter": {
+    "name": "Cool Winter (True Winter)",
+    "description": "Dominant: Cool. Secondary: Deep. You are the 'classic' winter. No warm tones exist in your features. You shine in icy and sharp colors.",
+    "contrast_strategy": "High Contrast. Use sharp, distinct blocks of color.",
+    "power_colors": ["#0000FF", "#DC143C", "#008B8B", "#FF00FF", "#FFFFFF"], 
+    "power_color_names": ["Cobalt Blue", "Crimson", "Dark Cyan", "Fuchsia", "Icy White"],
+    "neutrals": ["#000000", "#708090", "#191970"], 
+    "neutral_names": ["Jet Black", "Slate Grey", "Midnight Blue"],
+    "avoid": ["#DAA520", "#D2691E", "#FFFFE0"],
+    "avoid_names": ["Goldenrod", "Rust", "Cream"],
+    "metals": ["Silver", "White Gold"]
+  },
+
+  "clear_winter": {
+    "name": "Clear Winter (Bright Winter)",
+    "description": "Dominant: Clear/Bright. Secondary: Cool. You have sparkling eyes and glowing skin. You can wear neon-adjacent colors better than anyone.",
+    "contrast_strategy": "Maximum Contrast. Bright colors against black or white.",
+    "power_colors": ["#FF00CC", "#00FFFF", "#FFFF00", "#32CD32", "#000000"], 
+    "power_color_names": ["Hot Pink", "Icy Cyan", "Acid Yellow", "Bright Lime", "Black"],
+    "neutrals": ["#FFFFFF", "#000000", "#4169E1"], 
+    "neutral_names": ["Stark White", "Black", "Royal Blue"],
+    "avoid": ["#8FBC8F", "#BC8F8F", "#F5F5DC"],
+    "avoid_names": ["Sage Green", "Dusty Pink", "Beige"],
+    "metals": ["Shiny Silver", "Shiny Gold"]
+  },
+
+  "deep_autumn": {
+    "name": "Deep Autumn",
+    "description": "Dominant: Deep. Secondary: Warm. You are dark and rich. You flow into Winter, but have a golden glow. You need intense saturation.",
+    "contrast_strategy": "Medium-High Contrast. Avoid pastels.",
+    "power_colors": ["#8B0000", "#556B2F", "#D2691E", "#FFD700", "#008080"], 
+    "power_color_names": ["Tomato Red", "Olive Green", "Rust", "Mustard Gold", "Teal"],
+    "neutrals": ["#4B3621", "#1C2841", "#F5F5DC"], 
+    "neutral_names": ["Dark Chocolate", "Marine Navy", "Cream"],
+    "avoid": ["#E6E6FA", "#FF69B4", "#B0E0E6"],
+    "avoid_names": ["Lavender", "Hot Pink", "Powder Blue"],
+    "metals": ["Gold", "Bronze", "Copper"]
+  },
+
+  "warm_autumn": {
+    "name": "Warm Autumn (True Autumn)",
+    "description": "Dominant: Warm. Secondary: Muted. You are the essence of a forest in October. Golden, pumpkin, and leafy tones suit you best.",
+    "contrast_strategy": "Low Contrast. Monochromatic warm looks are great.",
+    "power_colors": ["#CC5500", "#B8860B", "#6B8E23", "#A0522D", "#8B4513"], 
+    "power_color_names": ["Pumpkin", "Dark Goldenrod", "Moss Green", "Sienna", "Coffee"],
+    "neutrals": ["#F5DEB3", "#8B8B7A", "#808000"], 
+    "neutral_names": ["Wheat", "Warm Grey", "Olive"],
+    "avoid": ["#000000", "#FF00FF", "#00BFFF"],
+    "avoid_names": ["Black", "Magenta", "Deep Sky Blue"],
+    "metals": ["Gold", "Copper"]
+  },
+
+  "soft_autumn": {
+    "name": "Soft Autumn",
+    "description": "Dominant: Muted. Secondary: Warm. You flow into Summer. Your colors are desaturated and earthy, like a foggy morning.",
+    "contrast_strategy": "Low Contrast. Blended, tonal outfits.",
+    "power_colors": ["#BC8F8F", "#9ACD32", "#E9967A", "#F0E68C", "#5F9EA0"], 
+    "power_color_names": ["Rosy Brown", "Yellow Green", "Salmon", "Khaki", "Cadet Blue"],
+    "neutrals": ["#D2B48C", "#A9A9A9", "#FFFDD0"], 
+    "neutral_names": ["Tan", "Dark Grey", "Cream"],
+    "avoid": ["#000000", "#FF0000", "#0000FF"],
+    "avoid_names": ["Black", "Bright Red", "Electric Blue"],
+    "metals": ["Rose Gold", "Brushed Gold"]
+  },
+
+  "light_spring": {
+    "name": "Light Spring",
+    "description": "Dominant: Light. Secondary: Warm. You look delicate and fresh. You flow into Summer but keep that peachy warmth.",
+    "contrast_strategy": "Low Contrast. Keep everything light and airy.",
+    "power_colors": ["#FFB6C1", "#AFEEEE", "#FFDAB9", "#E6E6FA", "#98FB98"], 
+    "power_color_names": ["Light Pink", "Pale Turquoise", "Peach Puff", "Lavender", "Pale Green"],
+    "neutrals": ["#FFF8DC", "#D3D3D3", "#F5DEB3"], 
+    "neutral_names": ["Cornsilk", "Light Grey", "Wheat"],
+    "avoid": ["#000000", "#8B0000", "#4B0082"],
+    "avoid_names": ["Black", "Burgundy", "Indigo"],
+    "metals": ["Light Gold", "Silver"]
+  },
+
+  "warm_spring": {
+    "name": "Warm Spring (True Spring)",
+    "description": "Dominant: Warm. Secondary: Clear. You look like a fruit basket. Fresh, vivid, and yellow-based colors make you shine.",
+    "contrast_strategy": "Medium Contrast. Colorful and vibrant.",
+    "power_colors": ["#FF4500", "#FFD700", "#32CD32", "#FF69B4", "#40E0D0"], 
+    "power_color_names": ["Orange Red", "Gold", "Lime Green", "Hot Pink", "Turquoise"],
+    "neutrals": ["#F5F5DC", "#D2B48C", "#8B4513"], 
+    "neutral_names": ["Beige", "Tan", "Medium Brown"],
+    "avoid": ["#000000", "#FFFFFF", "#708090"],
+    "avoid_names": ["Black", "White", "Slate Grey"],
+    "metals": ["Yellow Gold"]
+  },
+
+  "clear_spring": {
+    "name": "Clear Spring (Bright Spring)",
+    "description": "Dominant: Clear/Bright. Secondary: Warm. You flow into Winter. You need bright colors but with a warm twist.",
+    "contrast_strategy": "High Contrast. Bright pops of color.",
+    "power_colors": ["#FF6347", "#00CED1", "#ADFF2F", "#FF00FF", "#FFFF00"], 
+    "power_color_names": ["Tomato", "Dark Turquoise", "Green Yellow", "Magenta", "Yellow"],
+    "neutrals": ["#000000", "#FFFFFF", "#191970"], 
+    "neutral_names": ["Black", "White", "Navy (Warm)"],
+    "avoid": ["#D2B48C", "#808000", "#BC8F8F"],
+    "avoid_names": ["Tan", "Olive", "Dusty Pink"],
+    "metals": ["Shiny Gold", "Shiny Silver"]
+  },
+
+  "light_summer": {
+    "name": "Light Summer",
+    "description": "Dominant: Light. Secondary: Cool. You look ethereal. You flow into Spring but need blue-based pinks, not orange-based.",
+    "contrast_strategy": "Low Contrast. Pastel and delicate.",
+    "power_colors": ["#E6E6FA", "#B0C4DE", "#FFC0CB", "#AFEEEE", "#D8BFD8"], 
+    "power_color_names": ["Lavender", "Light Steel Blue", "Pink", "Pale Turquoise", "Thistle"],
+    "neutrals": ["#F0F8FF", "#D3D3D3", "#708090"], 
+    "neutral_names": ["Alice Blue", "Light Grey", "Slate Grey"],
+    "avoid": ["#000000", "#D2691E", "#FF4500"],
+    "avoid_names": ["Black", "Rust", "Orange Red"],
+    "metals": ["Silver", "White Gold"]
+  },
+
+  "cool_summer": {
+    "name": "Cool Summer (True Summer)",
+    "description": "Dominant: Cool. Secondary: Muted. You are the 'classic' summer. Think rose gardens and water. No warmth allowed.",
+    "contrast_strategy": "Medium Contrast. Elegant and refined.",
+    "power_colors": ["#C71585", "#4682B4", "#2E8B57", "#DDA0DD", "#6495ED"], 
+    "power_color_names": ["Medium Violet Red", "Steel Blue", "Sea Green", "Plum", "Cornflower Blue"],
+    "neutrals": ["#708090", "#F5F5F5", "#483D8B"], 
+    "neutral_names": ["Slate Grey", "Soft White", "Dark Slate Blue"],
+    "avoid": ["#FFA500", "#FFFF00", "#808000"],
+    "avoid_names": ["Orange", "Yellow", "Olive"],
+    "metals": ["Silver", "White Gold"]
+  },
+
+  "soft_summer": {
+    "name": "Soft Summer",
+    "description": "Dominant: Muted. Secondary: Cool. You flow into Autumn. Your colors are complex and greyed-out. Very sophisticated.",
+    "contrast_strategy": "Low to Medium Contrast. Monochrome cool looks.",
+    "power_colors": ["#BC8F8F", "#778899", "#663399", "#5F9EA0", "#DB7093"], 
+    "power_color_names": ["Rosy Brown", "Light Slate Grey", "Rebecca Purple", "Cadet Blue", "Pale Violet Red"],
+    "neutrals": ["#808080", "#DCDCDC", "#2F4F4F"], 
+    "neutral_names": ["Grey", "Gainsboro", "Dark Slate Grey"],
+    "avoid": ["#000000", "#FF4500", "#FFFF00"],
+    "avoid_names": ["Black", "Orange Red", "Neon Yellow"],
+    "metals": ["Matte Silver", "Rose Gold"]
+  }
+}
